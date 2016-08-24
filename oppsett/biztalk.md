@@ -1,6 +1,14 @@
 ## Installasjon av BizTalk Server
 
 
+### Miljø
+
+
+BizTalk 2013 var bygget for SQL Server 2008, og er kanskje oppdatert til SQL Server 2012, men er ikke "fremover kompatible" nødvendigviss.  Installasjon på SQL Server 2014 var litt vanskelig.
+
+SQL Data Transformation Services er er krav til BAM Tools installasjon.
+
+
 ### Developer SDK & Templates
 
 BizTalk 2013 krever Visual Studio 2012 for å installere sitt SDK.  En løsning for å installare den med VS2015+ er beskrevet på http://stackoverflow.com/questions/31337396/biztalk-2013-r2-installation
