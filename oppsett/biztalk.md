@@ -6,7 +6,7 @@
 
 BizTalk 2013 var bygget for SQL Server 2008, og er kanskje oppdatert til SQL Server 2012, men er ikke "fremover kompatible" nødvendigviss.  Installasjon på SQL Server 2014 var litt vanskelig.
 
-SQL Data Transformation Services er er krav til BAM Tools installasjon.
+SQL Server 2008 Management Tools (Basic & Complete) er et krav for å få Data Transformation Services på maskinen, som er igjen et krav til BAM Tools installasjon.
 
 
 ### Developer SDK & Templates
